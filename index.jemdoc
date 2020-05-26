@@ -1,2 +1,7 @@
 # jemdoc: menu{MENU}{index.html}
-hello world!
+= Bo Pang
+
+~~~
+{}{img_left}{pb_in_red.jpg}{Bo Pang}{250px}{250px}
+Ordinary jemdoc markup goes here.
+~~~
