@@ -3,5 +3,26 @@
 
 ~~~
 {}{img_left}{pb_in_red.jpg}{Bo Pang}{250px}{250px}
-Ordinary jemdoc markup goes here.
+Ph.D. Candidate \n
+[https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering Department of Electrical and Computer Engineering]\n
+[www.nyu.edu New York University]\n
+370 Jay street, Brooklyn, NY, USA\n
+Email: /bo.pang/ at /nyu/ dot /edu/
+~~~
+
+== About me
+I am a Ph.D. candidate at [www.nyu.edu New York University], working with my supervisor [https://engineering.nyu.edu/faculty/zhong-ping-jiang Prof. Zhong-ping Jiang]. I received my Master's degree in Automation from [http://en.sjtu.edu.cn/ Shanghai Jiao Tong University], Shanghai, China, where I was advised by [http://www.automation.sjtu.edu.cn/wdzhang/ Prof. Weidong Zhang]. Before that, I received my B.S. degree in Automation from [https://ev.buaa.edu.cn/ Beihang University].
+
+My research focuses on decision making under uncertainty, includes but not limited to reinforcement learning, adaptive/approximate dynamic programming, optimal control, stochastic control, model predictive control.
+
+== Education
+- Ph.D. Student in Electrical and Computer Engineering, New York University, September 2017 -- Present.
+- M.S. in Automation, Shanghai Jiao Tong University, September 2014 -- March 2017.
+- B.S. in Automation, Beihang University, September 2010 -- June 2014.
+
+== Recent News
+~~~
+- *May 20th* One paper on policy iteration for LQR of linear periodic systems was [https://www.sciencedirect.com/science/article/pii/S0005109820302338 online] in [https://www.journals.elsevier.com/automatica Automatica].
+- *May 19th* Our [https://arxiv.org/abs/2005.09528 paper] on robust analysis of policy iteration for LQR was submitted to [http://ieeecss.org/publication/transactions-automatic-control IEEE transactions on Automatic Control].
+- *April 16th* One paper on value iteration for LQR of linear periodic systems was [https://www.sciencedirect.com/science/article/pii/S0005109820302338 online] in [http://ieeecss.org/publication/transactions-automatic-control IEEE transactions on Automatic Control].
 ~~~
