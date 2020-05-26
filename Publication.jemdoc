@@ -3,7 +3,7 @@
 
 == Papers in Preparation
 
-/Robust Policy Iteration for Continuous-time Linear Quadratic Regulation./ \[[https://doi.org/10.1016/j.automatica.2020.109035 Link]\]\n
+/Robust Policy Iteration for Continuous-time Linear Quadratic Regulation./ \[[https://arxiv.org/abs/2005.09528 arXiv]\]\n
 *Bo Pang*, Tao Bian, Zhong-Ping Jiang.\n
 IEEE Transactions on Automatic Control, Under Review
 
@@ -21,11 +21,11 @@ Automatica, Vol. 118, 2020
 *Bo Pang*, Zhong-Ping Jiang.\n
 IEEE Transactions on Automatic Control, Early Access, 2020
 
-/Adaptive dynamic programming for finite-horizon optimal control of linear time-varying discrete-time systems./ \[[https://doi.org/10.1007/s11768-019-8168-8 Link]\]\n
+/Adaptive Dynamic Programming for Finite-horizon Optimal Control of Linear Time-varying Discrete-time Systems./ \[[https://doi.org/10.1007/s11768-019-8168-8 Link]\]\n
 *Bo Pang*, Tao Bian, Zhong-Ping Jiang.\n
 Control Theory and Technology, Vol. 17, No. 1, pp. 73--84, 2019
 
-/ThermalNet: A deep reinforcement learning-based combustion optimization system for coal-fired boiler./ \[[https://doi.org/10.1016/j.engappai.2018.07.003 Link]\]\n
+/ThermalNet: A Deep Reinforcement Learning-based Combustion Optimization System for Coal-fired Boiler./ \[[https://doi.org/10.1016/j.engappai.2018.07.003 Link]\]\n
 Yin Cheng, Yuexin Huang, *Bo Pang*, Weidong Zhang.\n
 Engineering Applicaitons of Artificial Intelligence, Vol. 74, pp. 303--311, 2018
 
@@ -33,7 +33,7 @@ Engineering Applicaitons of Artificial Intelligence, Vol. 74, pp. 303--311, 2018
 *Bo Pang*, Yunze Cai, Weidong Zhang.\n
 International Journal of Fuzzy Systems, Vol. 19, No. 5, pp. 1392--1405, 2017
 
-/Exponentially stable guaranteed cost control for continuous and discrete-time Takagi–Sugeno fuzzy systems./ \[[https://doi.org/10.1016/j.neucom.2016.04.041 Link]\]\n
+/Exponentially Stable Guaranteed Cost Control for Continuous and Discrete-time Takagi–Sugeno Fuzzy Systems./ \[[https://doi.org/10.1016/j.neucom.2016.04.041 Link]\]\n
 *Bo Pang*, Xiaocheng Liu, Qibing Jin, Weidong Zhang.\n
 Neurocomputing, Vol. 205, pp. 210--221, 2016
 
@@ -47,10 +47,10 @@ Neurocomputing, Vol. 205, pp. 210--221, 2016
 *Bo Pang*, Tao Bian, Zhong-Ping Jiang.\n
 2018 IEEE 57th Conference on Decision and Control (CDC), pp. 861--866, Miami Beach, FL, USA.
 
-/Output tracking of boiler-turbine system by fuzzy guaranteed cost control./ \[[https://doi.org/10.1109/ChiCC.2016.7553933 Link]\]\n
+/Output Tracking of Boiler-turbine System by Fuzzy Guaranteed Cost Control./ \[[https://doi.org/10.1109/ChiCC.2016.7553933 Link]\]\n
 *Bo Pang*, Yadong Zhao, Bowen Yi, Liyue Chen, Weidong Zhang.\n
 2016 35th Chinese Control Conference (CCC), pp. 3721--3726, Chengdu, China.
 
-/Finite-time distributed observers for position and velocity estimation in vehicle formations./ \[[https://doi.org/10.1109/ChiCC.2016.7554561 Link]\]\n
+/Finite-time Distributed Observers for Position and Velocity Estimation in Vehicle Formations./ \[[https://doi.org/10.1109/ChiCC.2016.7554561 Link]\]\n
 Yadong Zhao, *Bo Pang*, Fei Ye, Weidong Zhang.\n
 2016 35th Chinese Control Conference (CCC), pp. 7598--7603, Chengdu, China.
