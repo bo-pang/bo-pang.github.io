@@ -7,9 +7,6 @@
 *Bo Pang*, Zhong-Ping Jiang.\n
 IEEE Transactions on Automatic Control, Under Review
 
-/Robust Reinforcement Learning: A Case Study in Linear Quadratic Regulation./ \[[https://arxiv.org/abs/2008.11592 arXiv]\]\n
-*Bo Pang*, Zhong-Ping Jiang.\n
-
 /Robust Policy Iteration for Continuous-time Linear Quadratic Regulation./ \[[https://arxiv.org/abs/2005.09528 arXiv]\]\n
 *Bo Pang*, Tao Bian, Zhong-Ping Jiang.\n
 IEEE Transactions on Automatic Control, Major Revision
@@ -42,22 +39,26 @@ Neurocomputing, Vol. 205, pp. 210--221, 2016
 
 == Conference Papers
 
+/Robust Reinforcement Learning: A Case Study in Linear Quadratic Regulation./ \[[https://arxiv.org/abs/2008.11592 arXiv]\]\n
+*Bo Pang*, Zhong-Ping Jiang.\n
+2021 35th AAAI Conference on Artificial Intelligence (AAAI2021), Accepted.
+
 /A Data-driven Approach for Constrained Infinite-Horizon Linear Quadratic Regulation./ \n
 *Bo Pang*, Zhong-Ping Jiang.\n
-2020 IEEE 59th Conference on Decision and Control (CDC), Jeju Island, Republic of Korea, Accepted.
+2020 IEEE 59th Conference on Decision and Control (CDC2020), Jeju Island, Republic of Korea, Accepted.
 
 /Reinforcement Learning for Adaptive Periodic Linear Quadratic Control./ \[[https://doi.org/10.1109/CDC40024.2019.9030252 Link]\]\n
 *Bo Pang*, Zhong-Ping Jiang, Iven Mareels.\n
-2019 IEEE 58th Conference on Decision and Control (CDC), pp. 3322--3327, Nice, France.
+2019 IEEE 58th Conference on Decision and Control (CDC2019), pp. 3322--3327, Nice, France.
 
 /Data-driven Finite-horizon Optimal Control for Linear Time-varying Discrete-time Systems./ \[[https://doi.org/10.1109/CDC.2018.8619347 Link]\]\n
 *Bo Pang*, Tao Bian, Zhong-Ping Jiang.\n
-2018 IEEE 57th Conference on Decision and Control (CDC), pp. 861--866, Miami Beach, FL, USA.
+2018 IEEE 57th Conference on Decision and Control (CDC2018), pp. 861--866, Miami Beach, FL, USA.
 
 /Output Tracking of Boiler-turbine System by Fuzzy Guaranteed Cost Control./ \[[https://doi.org/10.1109/ChiCC.2016.7553933 Link]\]\n
 *Bo Pang*, Yadong Zhao, Bowen Yi, Liyue Chen, Weidong Zhang.\n
-2016 35th Chinese Control Conference (CCC), pp. 3721--3726, Chengdu, China.
+2016 35th Chinese Control Conference (CCC2016), pp. 3721--3726, Chengdu, China.
 
 /Finite-time Distributed Observers for Position and Velocity Estimation in Vehicle Formations./ \[[https://doi.org/10.1109/ChiCC.2016.7554561 Link]\]\n
 Yadong Zhao, *Bo Pang*, Fei Ye, Weidong Zhang.\n
-2016 35th Chinese Control Conference (CCC), pp. 7598--7603, Chengdu, China.
+2016 35th Chinese Control Conference (CCC2016), pp. 7598--7603, Chengdu, China.
