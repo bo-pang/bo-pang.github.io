@@ -3,16 +3,8 @@
 
 == Papers Submitted
 
-/Robust Reinforcement Learning for Stochastic Linear Quadratic Control with Multiplicative Noise./\n
-*Bo Pang*, Zhong-Ping Jiang.\n
-Book Chapter, 2021 to appear
-
 /Reinforcement Learning for Optimal Stationary Control of Linear Stochastic Systems./\n
 *Bo Pang*, Zhong-Ping Jiang.\n
-IEEE Transactions on Automatic Control, Under Review
-
-/Robust Policy Iteration for Continuous-time Linear Quadratic Regulation./ \[[https://arxiv.org/abs/2005.09528 arXiv]\]\n
-*Bo Pang*, Tao Bian, Zhong-Ping Jiang.\n
 IEEE Transactions on Automatic Control, Under Review
 
 /Data-Driven Adaptive Optimal Control of Mixed-Traffic Connected Vehicles in a Ring Road./\n
@@ -23,7 +15,17 @@ Tong Liu, Leilei Cui, *Bo Pang*, Zhong-Ping Jiang.\n
 Tong Liu, Leilei Cui, *Bo Pang*, Zhong-Ping Jiang.\n
 The 3rd IFAC Conference on Modelling, Identification and Control of Nonlinear Systems (MICNON 2021), Under Review.
 
+== Book Chapters
+
+/Robust Reinforcement Learning for Stochastic Linear Quadratic Control with Multiplicative Noise./ \[[https://www.springer.com/gp/book/9783030746278 Link]\]\n
+*Bo Pang*, Zhong-Ping Jiang.\n
+Book chapter in Trends in Nonlinear and Adaptive Control: A Tribute to Laurent Praly for his 65th Birthday, Springer, 2021.
+
 == Journal Papers
+
+/Robust Policy Iteration for Continuous-time Linear Quadratic Regulation./ \[[https://arxiv.org/abs/2005.09528 arXiv]\]\n
+*Bo Pang*, Tao Bian, Zhong-Ping Jiang.\n
+IEEE Transactions on Automatic Control, Accepted.
 
 /Adaptive Optimal Control of Linear Periodic Systems: An Off-Policy Value Iteration Approach./ \[[https://doi.org/10.1109/TAC.2020.2987313 Link]\]\n
 *Bo Pang*, Zhong-Ping Jiang.\n
