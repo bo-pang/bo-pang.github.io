@@ -3,13 +3,13 @@
 
 == Papers Submitted
 
-/Human Motor Learning is Robust to Control-Dependent Noise./\n
-*Bo Pang*, Leilei Cui and Zhong-Ping Jiang.\n
-Biological Cybernetics, Under Review.
-
 /Reinforcement Learning for Optimal Stationary Control of Linear Stochastic Systems./\n
 *Bo Pang*, Zhong-Ping Jiang.\n
 IEEE Transactions on Automatic Control, Conditionally Accepted.
+
+/Learning-based Adaptive Optimal Control of Linear Time-Delay Systems./\n
+Leilei Cui, *Bo Pang*, Zhong-Ping Jiang.\n
+IEEE Transactions on Automatic Control, Under Review.
 
 
 == Book Chapters
@@ -19,6 +19,10 @@ IEEE Transactions on Automatic Control, Conditionally Accepted.
 Book chapter in Trends in Nonlinear and Adaptive Control: A Tribute to [https://cas.mines-paristech.fr/~praly/ Laurent Praly] for his 65th birthday, Springer, 2021.
 
 == Journal Papers
+
+/Human Motor Learning is Robust to Control-Dependent Noise./\n
+*Bo Pang*, Leilei Cui and Zhong-Ping Jiang.\n
+Biological Cybernetics, Accepted, 2022.
 
 /Robust Policy Iteration for Continuous-time Linear Quadratic Regulation./ \[[https://ieeexplore.ieee.org/document/9444823 Link]\]\n
 *Bo Pang*, Tao Bian, Zhong-Ping Jiang.\n
@@ -50,13 +54,13 @@ Neurocomputing, Vol. 205, pp. 210--221, 2016
 
 == Conference Papers
 
-/Data-Driven Adaptive Optimal Control of Mixed-Traffic Connected Vehicles in a Ring Road./\n
+/Data-Driven Adaptive Optimal Control of Mixed-Traffic Connected Vehicles in a Ring Road./ \[[https://ieeexplore.ieee.org/abstract/document/9683024?casa_token=hKghBRNzlmUAAAAA:tOu--2y-0jRwcrMkepeN6IpsAghcIbyKjRvq20hAdX5UEbogDeBXCG8lhEoXfB51aJIZ2CPDkik Link]\]\n
 Tong Liu, Leilei Cui, *Bo Pang*, Zhong-Ping Jiang.\n
-2021 IEEE 60th Conference on Decision and Control (CDC2021), Accepted.
+2021 IEEE 60th Conference on Decision and Control (CDC2021), pp. 77-82, Austin, TX, USA.
 
-/Learning-Based Control of Multiple Connected Vehicles in the Mixed Traffic by Adaptive Dynamic Programming./\n
+/Learning-Based Control of Multiple Connected Vehicles in the Mixed Traffic by Adaptive Dynamic Programming./ \[[https://www.sciencedirect.com/science/article/pii/S2405896321017882 Link]\]\n
 Tong Liu, Leilei Cui, *Bo Pang*, Zhong-Ping Jiang.\n
-2021 3rd IFAC Conference on Modelling, Identification and Control of Nonlinear Systems (MICNON2021), Accepted.
+2021 3rd IFAC Conference on Modelling, Identification and Control of Nonlinear Systems (MICNON2021), Vol. 54, no. 14, pp. 370-375.
 
 /Robust Reinforcement Learning: A Case Study in Linear Quadratic Regulation./ \[[https://arxiv.org/abs/2008.11592 arXiv]\]\n
 *Bo Pang*, Zhong-Ping Jiang.\n
