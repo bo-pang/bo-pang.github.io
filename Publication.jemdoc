@@ -3,14 +3,9 @@
 
 == Papers Submitted
 
-/Reinforcement Learning for Optimal Stationary Control of Linear Stochastic Systems./\n
-*Bo Pang*, Zhong-Ping Jiang.\n
-IEEE Transactions on Automatic Control, Conditionally Accepted.
-
 /Learning-based Adaptive Optimal Control of Linear Time-Delay Systems./\n
 Leilei Cui, *Bo Pang*, Zhong-Ping Jiang.\n
 IEEE Transactions on Automatic Control, Under Review.
-
 
 == Book Chapters
 
@@ -19,6 +14,10 @@ IEEE Transactions on Automatic Control, Under Review.
 Book chapter in Trends in Nonlinear and Adaptive Control: A Tribute to [https://cas.mines-paristech.fr/~praly/ Laurent Praly] for his 65th birthday, Springer, 2021.
 
 == Journal Papers
+
+/Reinforcement Learning for Optimal Stationary Control of Linear Stochastic Systems./\n
+*Bo Pang*, Zhong-Ping Jiang.\n
+IEEE Transactions on Automatic Control, Accepted, 2022.
 
 /Human Motor Learning is Robust to Control-Dependent Noise./ \[[https://link.springer.com/article/10.1007/s00422-022-00922-z Link]\]\n
 *Bo Pang*, Leilei Cui and Zhong-Ping Jiang.\n
