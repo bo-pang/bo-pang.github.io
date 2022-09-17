@@ -19,7 +19,7 @@ Book chapter in Trends in Nonlinear and Adaptive Control: A Tribute to [https://
 
 == Journal Papers
 
-/Reinforcement Learning for Optimal Stationary Control of Linear Stochastic Systems./ \[[https://arxiv.org/abs/2107.07788 arXiv]\] \[[https://github.com/bo-pang/OLSbPI Code]\]\n
+/Reinforcement Learning for Optimal Stationary Control of Linear Stochastic Systems./ \[[https://ieeexplore.ieee.org/abstract/document/9767669 Link]\] \[[https://github.com/bo-pang/OLSbPI Code]\]\n
 *Bo Pang*, Zhong-Ping Jiang.\n
 IEEE Transactions on Automatic Control, Accepted, 2022.
 
@@ -41,7 +41,7 @@ IEEE Transactions on Automatic Control, Vol. 66, No. 2, pp. 888--894, 2021
 *Bo Pang*, Zhong-Ping Jiang, Iven Mareels.\n
 Automatica, Vol. 118, 2020
 
-/Adaptive Dynamic Programming for Finite-horizon Optimal Control of Linear Time-varying Discrete-time Systems./ \[[https://doi.org/10.1007/s11768-019-8168-8 Link]\]\n
+/Adaptive Dynamic Programming for Finite-horizon Optimal Control of Linear Time-varying Discrete-time Systems./ \[[https://doi.org/10.1007/s11768-019-8168-8 Link]\]\[[https://github.com/bo-pang/time_varying_ADP/ Code]\]\n
 *Bo Pang*, Tao Bian, Zhong-Ping Jiang.\n
 Control Theory and Technology, Vol. 17, No. 1, pp. 73--84, 2019. {{<font color=red><b>}}2020 Best Paper Award.{{</b></font>}}
 
@@ -79,7 +79,8 @@ Tong Liu, Leilei Cui, *Bo Pang*, Zhong-Ping Jiang.\n
 *Bo Pang*, Zhong-Ping Jiang, Iven Mareels.\n
 2019 IEEE 58th Conference on Decision and Control (CDC2019), pp. 3322--3327, Nice, France.
 
-/Data-driven Finite-horizon Optimal Control for Linear Time-varying Discrete-time Systems./ \[[https://doi.org/10.1109/CDC.2018.8619347 Link]\]\n
+/Data-driven Finite-horizon Optimal Control for Linear Time-varying Discrete-time Systems./ \[[https://doi.org/10.1109/CDC.2018.8619347 Link]\]
+\[[https://github.com/bo-pang/time_varying_ADP/ Code]\]\n
 *Bo Pang*, Tao Bian, Zhong-Ping Jiang.\n
 2018 IEEE 57th Conference on Decision and Control (CDC2018), pp. 861--866, Miami Beach, FL, USA.
 
