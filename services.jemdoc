@@ -1,6 +1,14 @@
 # jemdoc: menu{MENU}{services.html}
 = Services
 
+Teaching assistant for
+
+- ECE-GY 6143, Introduction to Machine Learning, Graduate Level, Fall 2018, Instructor: [https://engineering.nyu.edu/faculty/anna-choromanska Prof. Anna Choromanska]
+
+- ECE-UY 3064, Feedback Control, Undergraduate Level, Spring 2019, Instructor: [https://engineering.nyu.edu/faculty/zhong-ping-jiang Prof. Zhong-Ping Jiang]
+
+- ECE-GY 6233, System Optimization Method, Graduate Level, Spring 2021, Instructor: [https://engineering.nyu.edu/faculty/zhong-ping-jiang Prof. Zhong-Ping Jiang]
+
 Reviewer for
 
 - [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9 IEEE Transactions on Automatic Control]
@@ -10,6 +18,8 @@ Reviewer for
 - [https://www.sciencedirect.com/journal/systems-and-control-letters Systems \& Control Letters]
 
 - [https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=7083369 IEEE Robotics and Automation Letters]
+
+- [https://ieeecss.org/publication/ieee-control-systems-letters IEEE Control Systems Letters]
 
 - [https://cis.ieee.org/publications/t-neural-networks-and-learning-systems IEEE Transactions on Neural Networks and Learning Systems]
 
@@ -21,11 +31,17 @@ Reviewer for
 
 - [https://www.icra2023.org/ IEEE International Conference on Robotics and Automation (ICRA) 2023]
 
+- [https://www.ifac2023.org/ IFAC World Congress 2023]
+
 - [https://cdc2022.ieeecss.org/ IEEE Conference on Decision and Control (CDC) 2020, 2022]
 
 - [https://acc2023.a2c2.org/ American Control Conference (ACC) 2023]
 
+- [https://www.sciencedirect.com/journal/information-sciences Information Sciences]
+
 - [https://onlinelibrary.wiley.com/journal/10991239 International Journal of Robust and Nonlinear Control]
+
+- [https://www.tandfonline.com/journals/tsys20 International Journal of Systems Science]
 
 - [https://www.journals.elsevier.com/neurocomputing Neurocomputing]
 
@@ -38,11 +54,3 @@ Reviewer for
 - [https://www.sciencedirect.com/journal/applied-mathematics-and-computation Applied Mathematics and Computation]
 
 - [https://www.springer.com/journal/11432 Science China Information Sciences]
-
-Teaching assistant for
-
-- ECE-GY 6143, Introduction to Machine Learning, Graduate Level, Fall 2018, Instructor: [https://engineering.nyu.edu/faculty/anna-choromanska Prof. Anna Choromanska]
-
-- ECE-UY 3064, Feedback Control, Undergraduate Level, Spring 2019, Instructor: [https://engineering.nyu.edu/faculty/zhong-ping-jiang Prof. Zhong-Ping Jiang]
-
-- ECE-GY 6233, System Optimization Method, Graduate Level, Spring 2021, Instructor: [https://engineering.nyu.edu/faculty/zhong-ping-jiang Prof. Zhong-Ping Jiang]

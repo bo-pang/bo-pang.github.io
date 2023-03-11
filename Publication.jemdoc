@@ -3,9 +3,9 @@
 
 == Papers Submitted
 
-/Learning-based Adaptive Optimal Control of Linear Time-Delay Systems./\n
+/Learning-Based Adaptive Optimal Control of Linear Time-Delay Systems: A Policy Iteration Approach./\n
 Leilei Cui, *Bo Pang*, Zhong-Ping Jiang.\n
-IEEE Transactions on Automatic Control, Under Review.
+IEEE Transactions on Automatic Control, Under Review. \[[https://arxiv.org/pdf/2210.00204.pdf Preprint]\]
 
 /Learning-Based Adaptive Optimal Control of Mixed-Traffic Connected Vehicles./\n
 Tong Liu, Leilei Cui, *Bo Pang*, Zhong-Ping Jiang.\n
@@ -58,6 +58,14 @@ International Journal of Fuzzy Systems, Vol. 19, No. 5, pp. 1392--1405, 2017
 Neurocomputing, Vol. 205, pp. 210--221, 2016
 
 == Conference Papers
+
+/Learning Adaptive Optimal Controllers for Linear Time-Delay Systems./\n
+Leilei Cui, *Bo Pang* and Zhong-Ping Jiang.\n
+2023 American Control Conference (ACC2023), San Diego, CA, USA, Accepted, 2023. 
+
+/A Value Iteration Approach to Adaptive Optimal Control of Linear Time-Delay Systems./\n
+Leilei Cui, *Bo Pang* and Zhong-Ping Jiang.\n
+2023 22nd IFAC World Congress (IFAC2023), Yokohama, Japan, Accepted, 2023.
 
 /Data-Driven Adaptive Optimal Control of Mixed-Traffic Connected Vehicles in a Ring Road./ \[[https://ieeexplore.ieee.org/abstract/document/9683024?casa_token=hKghBRNzlmUAAAAA:tOu--2y-0jRwcrMkepeN6IpsAghcIbyKjRvq20hAdX5UEbogDeBXCG8lhEoXfB51aJIZ2CPDkik Link]\]\n
 Tong Liu, Leilei Cui, *Bo Pang*, Zhong-Ping Jiang.\n
